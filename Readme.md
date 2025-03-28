@@ -48,41 +48,6 @@ components = [
     "tags": ["button", "interactive", "UI component"],
     "source": "ShadCN"
   },
-  {
-    "name": "Card",
-    "description": "A container for content that groups related information in a flexible and extensible content container.",
-    "code": "<Card>\n  <CardHeader>Card Title</CardHeader>\n  <CardBody>This is some text within a card body.</CardBody>\n</Card>",
-    "tags": ["card", "container", "UI component"],
-    "source": "ShadCN"
-  },
-  {
-    "name": "Checkbox",
-    "description": "A square box that can be checked or unchecked to select or deselect an option.",
-    "code": "<Checkbox label=\"Accept terms and conditions\" />",
-    "tags": ["checkbox", "form", "UI component"],
-    "source": "ShadCN"
-  },
-  {
-    "name": "Dialog",
-    "description": "A window overlaid on either the primary window or another dialog window, rendering the content underneath inert.",
-    "code": "<Dialog>\n  <DialogTrigger><Button>Open Dialog</Button></DialogTrigger>\n  <DialogContent>\n    <DialogTitle>Dialog Title</DialogTitle>\n    <DialogDescription>This is the dialog content.</DialogDescription>\n  </DialogContent>\n</Dialog>",
-    "tags": ["dialog", "modal", "UI component"],
-    "source": "ShadCN"
-  },
-  {
-    "name": "Dropdown Menu",
-    "description": "A toggleable menu that allows the user to choose one value from a predefined list.",
-    "code": "<DropdownMenu>\n  <DropdownMenuTrigger><Button>Options</Button></DropdownMenuTrigger>\n  <DropdownMenuContent>\n    <DropdownMenuItem>Item 1</DropdownMenuItem>\n    <DropdownMenuItem>Item 2</DropdownMenuItem>\n  </DropdownMenuContent>\n</DropdownMenu>",
-    "tags": ["dropdown", "menu", "UI component"],
-    "source": "ShadCN"
-  },
-  {
-    "name": "Input",
-    "description": "A field that allows users to enter data.",
-    "code": "<Input type=\"text\" placeholder=\"Enter your name\" />",
-    "tags": ["input", "form", "UI component"],
-    "source": "ShadCN"
-  },
 ]
  #add more entries like the ones mentioned above
 
